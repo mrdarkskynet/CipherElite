@@ -61,7 +61,7 @@ passlib==1.7.4
 bcrypt==4.2.1
 
 # ─── Cloud & Storage ───
-boto3==1.37.18  # AWS
+boto3==1.37.18
 google-cloud-storage==3.0.0
 azure-storage-blob==12.24.0
 
